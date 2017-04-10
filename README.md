@@ -1,6 +1,13 @@
 # Logica11y
-NOTE: This is very much a work in progress and should not be used yet.
+*NOTE*: This is very much a work in progress and should not be used yet.
+
 Automated widget validation according the the ARIA Authoring Practices.  Validates attributes (initial and dynamic) as well as keyboard interaction.
+
+## Installation
+
+```bash
+$ npm install logica11y
+```
 
 ## Usage
 

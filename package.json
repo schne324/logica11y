@@ -1,6 +1,6 @@
 {
   "name": "logica11y",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Test complex aria widgets",
   "main": "dist/logica11y.js",
   "scripts": {
