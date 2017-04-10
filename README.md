@@ -31,3 +31,4 @@ logica11y.tabs({
 ### logica11y.tabs
 The tabs API returns a promise and accepts an options object:
 - `tabs` {_Mixed_}: A selector for all tabs OR an array (or nodeList) of tab elements
+- `timeout` {_Number_}: Time in ms it takes for panel to display upon tab activation (defaults to 0)
